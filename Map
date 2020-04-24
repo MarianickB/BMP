@@ -1,0 +1,2360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Laurendeau",
+        "lat": 45.56816,
+        "long": -73.6624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6624,
+          45.56816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Sainte-Dorothée",
+        "lat": 45.52369,
+        "long": -73.8046
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8046,
+          45.52369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Yvon-Brunet",
+        "lat": 45.45391,
+        "long": -73.6036
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6036,
+          45.45391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre multiservices de santé et de services sociaux Laflèche",
+        "lat": 46.60543,
+        "long": -72.7058
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7058,
+          46.60543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement LaSalle",
+        "lat": 45.41639,
+        "long": -73.6206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6206,
+          45.41639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Joseph-François-Perreault",
+        "lat": 45.55979,
+        "long": -73.6019
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6019,
+          45.55979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Institut universitaire de gériatrie de Montréal (IUGM)",
+        "lat": 45.49118,
+        "long": -73.6233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6233,
+          45.49118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Les Floralies LaSalle",
+        "lat": 45.42406,
+        "long": -73.6091
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6091,
+          45.42406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Notre-Dame-de-la-Merci",
+        "lat": 45.54736,
+        "long": -73.6875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6875,
+          45.54736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement de Verdun",
+        "lat": 45.45244,
+        "long": -73.5669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5669,
+          45.45244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Unité d'hébergement de l'Hôpital LaSalle",
+        "lat": 45.4209,
+        "long": -73.6232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6232,
+          45.4209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Kastner",
+        "lat": 45.49417,
+        "long": -73.6325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6325,
+          45.49417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Alfred-Desrochers",
+        "lat": 45.49082,
+        "long": -73.6276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6276,
+          45.49082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Nicolet",
+        "lat": 45.54756,
+        "long": -73.5485
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5485,
+          45.54756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Jean-de-la-Lande",
+        "lat": 45.53126,
+        "long": -73.5699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5699,
+          45.53126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Fernand-Larocque",
+        "lat": 45.61545,
+        "long": -73.644
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.644,
+          45.61545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Jean-Hubert-Biermans",
+        "lat": 45.59641,
+        "long": -73.5354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5354,
+          45.59641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Eva Lavaltrie",
+        "lat": 45.89234,
+        "long": -73.2932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2932,
+          45.89234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD La Pinière",
+        "lat": 45.61123,
+        "long": -73.6495
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6495,
+          45.61123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Berthiaume-Du Tremblay",
+        "lat": 45.56715,
+        "long": -73.6629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6629,
+          45.56715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Vigi Mont-Royal",
+        "lat": 45.52502,
+        "long": -73.651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.651,
+          45.52502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Angelica",
+        "lat": 45.59002,
+        "long": -73.651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.651,
+          45.59002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d soins prolongés Grace Dart",
+        "lat": 45.55952,
+        "long": -73.5284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5284,
+          45.55952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Champlain",
+        "lat": 45.43894,
+        "long": -73.5868
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5868,
+          45.43894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Soleil Manoir Sherbrooke",
+        "lat": 45.42091,
+        "long": -71.8649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8649,
+          45.42091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement René-Lévesque",
+        "lat": 45.56748,
+        "long": -73.4796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4796,
+          45.56748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Nazaire-Piché",
+        "lat": 45.43416,
+        "long": -73.6769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6769,
+          45.43416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Lachine",
+        "lat": 45.44004,
+        "long": -73.6907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6907,
+          45.44004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Réal-Morel",
+        "lat": 45.46848,
+        "long": -73.5652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5652,
+          45.46848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "RPA Manoir Courville",
+        "lat": 46.87788,
+        "long": -71.1653
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1653,
+          46.87788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD de la Petite-Patrie",
+        "lat": 45.54609,
+        "long": -73.6007
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6007,
+          45.54609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Émile-McDuff",
+        "lat": 45.78835,
+        "long": -73.4078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4078,
+          45.78835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "S.E.C Ambiance IDS",
+        "lat": 45.46739,
+        "long": -73.545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.545,
+          45.46739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir Liverpool",
+        "lat": 46.7533,
+        "long": -71.2328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2328,
+          46.7533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD de la Colline",
+        "lat": 48.45003,
+        "long": -71.0768
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0768,
+          48.45003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Hôpital Marie-Clarac",
+        "lat": 45.59035,
+        "long": -73.6494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6494,
+          45.59035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Jeffrey Hale",
+        "lat": 46.7958,
+        "long": -71.2524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2524,
+          46.7958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "St-Andrew Residential Centre",
+        "lat": 45.46322,
+        "long": -73.6286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6286,
+          45.46322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Ferland",
+        "lat": 45.79461,
+        "long": -72.0221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0221,
+          45.79461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Dorval",
+        "lat": 45.44167,
+        "long": -73.736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.736,
+          45.44167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Sélection Bleu Horizon",
+        "lat": 48.24048,
+        "long": -79.0274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0274,
+          48.24048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Vigi Pierrefonds",
+        "lat": 45.48548,
+        "long": -73.8587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8587,
+          45.48548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD de Saint-Jerôme",
+        "lat": 45.76689,
+        "long": -74.0043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0043,
+          45.76689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Héritage Plateau",
+        "lat": 45.52098,
+        "long": -73.5787
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5787,
+          45.52098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement des Seigneurs",
+        "lat": 45.48957,
+        "long": -73.5712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5712,
+          45.48957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Les Cedres",
+        "lat": 45.51707,
+        "long": -73.6801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6801,
+          45.51707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Saint-Lambert-sur-le-golf",
+        "lat": 45.51062,
+        "long": -73.5022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5022,
+          45.51062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Paul-Bruchési",
+        "lat": 45.53442,
+        "long": -73.566
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.566,
+          45.53442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir du Havre",
+        "lat": 48.1674,
+        "long": -65.9966
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.9966,
+          48.1674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence du Bonheur",
+        "lat": 45.68656,
+        "long": -73.6476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6476,
+          45.68656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Excelsoins - Vivalis",
+        "lat": 45.4521,
+        "long": -73.8358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8358,
+          45.4521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Judith-Jasmin",
+        "lat": 45.60649,
+        "long": -73.5299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5299,
+          45.60649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement St-Margaret",
+        "lat": 45.48199,
+        "long": -73.5896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5896,
+          45.48199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Maison Paul-Triquet",
+        "lat": 46.78921,
+        "long": -71.2727
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2727,
+          46.78921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Saint-Vincent-Marie",
+        "lat": 45.51759,
+        "long": -73.6792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6792,
+          45.51759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir King David",
+        "lat": 45.46178,
+        "long": -73.6613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6613,
+          45.46178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Vigi de Dollard-des-Ormeaux",
+        "lat": 46.73937,
+        "long": -71.3913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3913,
+          46.73937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Champlain-De-Gouin",
+        "lat": 45.59957,
+        "long": -73.6398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6398,
+          45.59957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD de Saint-Laurent",
+        "lat": 45.51707,
+        "long": -73.6801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6801,
+          45.51707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence de L'Éden",
+        "lat": 45.66618,
+        "long": -73.5724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5724,
+          45.66618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Residence Valeo",
+        "lat": 45.51153,
+        "long": -73.5035
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5035,
+          45.51153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Beauharnois",
+        "lat": 45.31211,
+        "long": -73.8777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8777,
+          45.31211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Benjamin-Victor-Rousselot",
+        "lat": 45.5728,
+        "long": -73.5509
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5509,
+          45.5728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Les Jardins Gordon",
+        "lat": 45.46115,
+        "long": -73.5778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5778,
+          45.46115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Paul-Émile-Léger",
+        "lat": 45.50957,
+        "long": -73.5605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5605,
+          45.50957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Éloria Lepage",
+        "lat": 45.57693,
+        "long": -73.5419
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5419,
+          45.57693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD-CLSC Mgr Paquin",
+        "lat": 46.72791,
+        "long": -72.5605
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5605,
+          46.72791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Maison Niverville",
+        "lat": 46.34502,
+        "long": -72.5436
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5436,
+          46.34502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Westmount One",
+        "lat": 45.48348,
+        "long": -73.6148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6148,
+          45.48348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence La Rosière inc.",
+        "lat": 45.5711,
+        "long": -73.3295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3295,
+          45.5711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement des Moulins",
+        "lat": 45.68751,
+        "long": -73.7288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7288,
+          45.68751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Henriette-Céré",
+        "lat": 45.49652,
+        "long": -73.4039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4039,
+          45.49652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Paul-Lizotte",
+        "lat": 45.62782,
+        "long": -73.621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.621,
+          45.62782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Les Jardins Latourelle (2014) inc.",
+        "lat": 46.24984,
+        "long": -72.9384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9384,
+          46.24984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Émile-Gamelin",
+        "lat": 45.52847,
+        "long": -73.5479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5479,
+          45.52847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Pavillon Rigaud inc.",
+        "lat": 46.35301,
+        "long": -72.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6,
+          46.35301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence J.A. De Sève",
+        "lat": 45.51367,
+        "long": -73.5557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5557,
+          45.51367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Montarville",
+        "lat": 45.59411,
+        "long": -73.4395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4395,
+          45.59411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Légaré",
+        "lat": 45.55854,
+        "long": -73.635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.635,
+          45.55854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Louis-Riel",
+        "lat": 45.48198,
+        "long": -73.5663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5663,
+          45.48198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Bourget",
+        "lat": 45.63388,
+        "long": -73.4931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4931,
+          45.63388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Le Savignon",
+        "lat": 45.43586,
+        "long": -73.6913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6913,
+          45.43586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Maison l'Étincelle",
+        "lat": 45.4691,
+        "long": -73.5679
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5679,
+          45.4691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Residence Maison Dauphinelle",
+        "lat": 45.52705,
+        "long": -73.2922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2922,
+          45.52705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Armand-Lavergne",
+        "lat": 45.53573,
+        "long": -73.5635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5635,
+          45.53573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Jeanne-LeBer",
+        "lat": 45.58964,
+        "long": -73.528
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.528,
+          45.58964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Petite-Nation",
+        "lat": 45.72214,
+        "long": -75.0594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0594,
+          45.72214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir de l'arbre argenté",
+        "lat": 46.78607,
+        "long": -71.1816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1816,
+          46.78607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence De-La-Salle",
+        "lat": 45.43012,
+        "long": -73.613
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.613,
+          45.43012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD des Seigneurs ",
+        "lat": 45.48957,
+        "long": -73.5712
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5712,
+          45.48957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Soleil",
+        "lat": 45.42091,
+        "long": -71.8649
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8649,
+          45.42091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Vent-de-l'Ouest",
+        "lat": 45.48487,
+        "long": -73.8627
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8627,
+          45.48487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Heather",
+        "lat": 46.05084,
+        "long": -73.7017
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7017,
+          46.05084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement St-Jacques",
+        "lat": 45.947,
+        "long": -73.5688
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5688,
+          45.947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Chartwell-Greenfield Park",
+        "lat": 45.49864,
+        "long": -73.4851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4851,
+          45.49864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Paul-Gouin",
+        "lat": 45.53233,
+        "long": -73.5997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5997,
+          45.53233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD St-Georges",
+        "lat": 45.51221,
+        "long": -73.573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.573,
+          45.51221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre Hospitalier Gériatrique Maimonides",
+        "lat": 45.47189,
+        "long": -73.6685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6685,
+          45.47189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Tour Angrignon",
+        "lat": 45.4464,
+        "long": -73.6075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6075,
+          45.4464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Les Résidences Soleil Manoir Laval",
+        "lat": 45.56332,
+        "long": -73.7232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7232,
+          45.56332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Séléction Panorama",
+        "lat": 45.51731,
+        "long": -73.7733
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7733,
+          45.51731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Le Bellagio",
+        "lat": 45.53728,
+        "long": -73.4638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4638,
+          45.53728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement L'Assomption",
+        "lat": 45.82498,
+        "long": -73.4253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4253,
+          45.82498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Bayview",
+        "lat": 45.44844,
+        "long": -73.7866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7866,
+          45.44844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Idola-Saint-Jean",
+        "lat": 45.558,
+        "long": -73.6939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6939,
+          45.558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Lucien G. Rolland",
+        "lat": 45.76411,
+        "long": -74.0022
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0022,
+          45.76411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Saint-Joseph-de-la-Providence",
+        "lat": 45.54124,
+        "long": -73.6909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6909,
+          45.54124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Villa des Roseaux",
+        "lat": 45.54852,
+        "long": -73.7069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7069,
+          45.54852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Notre-Dame de la Victoire",
+        "lat": 45.49462,
+        "long": -73.3976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3976,
+          45.49462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Accueil Notre-Dame inc.",
+        "lat": 45.26322,
+        "long": -72.1381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1381,
+          45.26322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Chartwell Manoir Kirkland Retirement Residence",
+        "lat": 45.44994,
+        "long": -73.835
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.835,
+          45.44994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD + RPA Loggias Villa Val des Arbres",
+        "lat": 45.60572,
+        "long": -73.678
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.678,
+          45.60572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Hope",
+        "lat": 45.49287,
+        "long": -73.6338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6338,
+          45.49287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Domaine des Forges inc.",
+        "lat": 45.61331,
+        "long": -73.7908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7908,
+          45.61331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Lacordaire",
+        "lat": 45.58291,
+        "long": -73.5826
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5826,
+          45.58291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Sainte-Catherine",
+        "lat": 45.52773,
+        "long": -73.5472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5472,
+          45.52773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Boisé Notre-Dame",
+        "lat": 45.54737,
+        "long": -73.7345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7345,
+          45.54737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Saint-Henri",
+        "lat": 45.46955,
+        "long": -73.5936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5936,
+          45.46955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Lionel-Émond",
+        "lat": 45.44534,
+        "long": -75.7484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7484,
+          45.44534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Marie Victorin",
+        "lat": 45.61613,
+        "long": -73.6045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6045,
+          45.61613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Robert-Cliche",
+        "lat": 45.55762,
+        "long": -73.5788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5788,
+          45.55762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Henri-Bradet",
+        "lat": 45.47192,
+        "long": -73.6453
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6453,
+          45.47192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Hôpital Sainte-Anne",
+        "lat": 45.41244,
+        "long": -73.9484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9484,
+          45.41244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "L'image d'Outremont",
+        "lat": 45.51861,
+        "long": -73.6225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6225,
+          45.51861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence La Belle Époque",
+        "lat": 45.4217,
+        "long": -73.4959
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4959,
+          45.4217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Vigi Reine Élizabeth",
+        "lat": 45.47427,
+        "long": -73.6065
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6065,
+          45.47427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Bleu et Or",
+        "lat": 45.44066,
+        "long": -73.2415
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2415,
+          45.44066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Les Résidences Quatre Saisons",
+        "lat": 45.25508,
+        "long": -74.1275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1275,
+          45.25508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Centre d'hébergement Saint-Vincent",
+        "lat": 45.40704,
+        "long": -71.8803
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8803,
+          45.40704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Chartwell Manoir Saint-Jerôme",
+        "lat": 45.79171,
+        "long": -73.9982
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9982,
+          45.79171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Château Royal",
+        "lat": 45.48112,
+        "long": -73.8162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8162,
+          45.48112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD de la Rive",
+        "lat": 45.56209,
+        "long": -73.8587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8587,
+          45.56209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Gertrude-Lafrance",
+        "lat": 45.34009,
+        "long": -73.281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.281,
+          45.34009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Le Royer",
+        "lat": 45.61744,
+        "long": -73.5478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5478,
+          45.61744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Pierre Joseph Triest",
+        "lat": 45.6008,
+        "long": -73.5354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5354,
+          45.6008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Providence Notre-Dame-de-Lourde",
+        "lat": 45.54976,
+        "long": -73.5406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5406,
+          45.54976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD Providence Saint-Joseph",
+        "lat": 45.54124,
+        "long": -73.6909
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6909,
+          45.54124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD St-Jean-Eudes",
+        "lat": 46.84997,
+        "long": -71.2616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2616,
+          46.84997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "CHSLD St-Liguori",
+        "lat": 46.00702,
+        "long": -73.5691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5691,
+          46.00702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Habitations les II volets, Maison aux Qu",
+        "lat": 45.53616,
+        "long": -73.5972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5972,
+          45.53616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "La Sélection Laval",
+        "lat": 45.56486,
+        "long": -73.754
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.754,
+          45.56486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Les habitations Bordeleau",
+        "lat": 46.04689,
+        "long": -73.4519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4519,
+          46.04689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Lokia Trois-Rivières",
+        "lat": 46.34965,
+        "long": -72.5361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5361,
+          46.34965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir de Casson",
+        "lat": 45.52203,
+        "long": -73.6703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6703,
+          45.52203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir Joie de vivre",
+        "lat": 45.64018,
+        "long": -73.8381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8381,
+          45.64018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Manoir St-Jerôme",
+        "lat": 45.79275,
+        "long": -73.9988
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9988,
+          45.79275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Cité Jardins (I-II-IIA-IV)",
+        "lat": 45.48713,
+        "long": -75.6877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6877,
+          45.48713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence L'Alto",
+        "lat": 45.50583,
+        "long": -73.6743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6743,
+          45.50583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Les Cascades inc.",
+        "lat": 45.59072,
+        "long": -73.651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.651,
+          45.59072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Portofino inc.",
+        "lat": 45.58521,
+        "long": -73.652
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.652,
+          45.58521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Sault-au-Récollet (cerrado?)",
+        "lat": 45.58744,
+        "long": -73.6522
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6522,
+          45.58744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence St-Elzéar",
+        "lat": 45.57305,
+        "long": -73.7655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7655,
+          45.57305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence St-Jean - UTRF",
+        "lat": 45.3554,
+        "long": -73.2961
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2961,
+          45.3554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Résidence Marie-Clothilde",
+        "lat": 46.02475,
+        "long": -73.444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.444,
+          46.02475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Coeur du Boung (??)",
+        "lat": 46.85917,
+        "long": -71.2651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2651,
+          46.85917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Villa de Jouvence",
+        "lat": 45.53546,
+        "long": -73.7369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7369,
+          45.53546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Milieu de vie": "Villa Saint-Alexis",
+        "lat": 48.31507,
+        "long": -70.8544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8544,
+          48.31507
+        ]
+      }
+    }
+  ]
+}
